@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Python virtual environment directory (if you have one)
+venv/
+
+# Ignore database files (SQLite, PostgreSQL, etc.)
+*.sqlite3
+*.db
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+
+# Ignore compiled JavaScript files
+/build/
+/dist/
